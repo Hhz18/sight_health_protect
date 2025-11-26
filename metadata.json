@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VisionGuard AI",
+  "description": "Smart eye-protection tool that monitors screen distance and provides AI-powered ergonomic advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
